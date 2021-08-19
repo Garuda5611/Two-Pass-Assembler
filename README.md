@@ -1,0 +1,2 @@
+# Two-Pass-Assembler
+I have implemented 2 pass assembler using java. I have used eclipse oxygen IDE for developing programs. Just download the project, extract zip file and open the folder from eclipse. Then change the path of the files to your local machine path. input.asm will be given as input to pass 1 of 2 pass assembler, it will generate symboltable, pooltable and intermediate code. All these files will be provided as input to pass 2, from them pass 2 will generate final output.
